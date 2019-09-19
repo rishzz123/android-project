@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1064152121537",
+    "firebase_url": "https://donationapp-67597.firebaseio.com",
+    "project_id": "donationapp-67597",
+    "storage_bucket": "donationapp-67597.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064152121537:android:9ee34208ac372497",
+        "android_client_info": {
+          "package_name": "com.example.donationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064152121537-jle19ld8f50rabkc57hsas9kroqjlkji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.donationapp",
+            "certificate_hash": "825a240305637db9a63e0d7a878f41fffcde1203"
+          }
+        },
+        {
+          "client_id": "1064152121537-rnblg2npvgrbr4188lj72keurkqfpvis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAecMTEDI3eGWXuYttbvvTt3XeAj9N-NUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064152121537-rnblg2npvgrbr4188lj72keurkqfpvis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
